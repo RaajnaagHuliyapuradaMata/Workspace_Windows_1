@@ -1,0 +1,216 @@
+[submodule "repo_submodules/common"]
+	path = repo_submodules/common
+	url = git@github.com:RaajnaagHuliyapuradaMata/common.git
+[submodule "repo_submodules/CddBdrv"]
+	path = repo_submodules/CddBdrv
+	url = git@github.com:RaajnaagHuliyapuradaMata/CddBdrv.git
+[submodule "repo_submodules/EcuabEa"]
+	path = repo_submodules/EcuabEa
+	url = git@github.com:RaajnaagHuliyapuradaMata/EcuabEa.git
+[submodule "repo_submodules/EcuabIfCan"]
+	path = repo_submodules/EcuabIfCan
+	url = git@github.com:RaajnaagHuliyapuradaMata/EcuabIfCan.git
+[submodule "repo_submodules/EcuabIfCry"]
+	path = repo_submodules/EcuabIfCry
+	url = git@github.com:RaajnaagHuliyapuradaMata/EcuabIfCry.git
+[submodule "repo_submodules/EcuabIfEth"]
+	path = repo_submodules/EcuabIfEth
+	url = git@github.com:RaajnaagHuliyapuradaMata/EcuabIfEth.git
+[submodule "repo_submodules/EcuabIfFr"]
+	path = repo_submodules/EcuabIfFr
+	url = git@github.com:RaajnaagHuliyapuradaMata/EcuabIfFr.git
+[submodule "repo_submodules/EcuabIfLin"]
+	path = repo_submodules/EcuabIfLin
+	url = git@github.com:RaajnaagHuliyapuradaMata/EcuabIfLin.git
+[submodule "repo_submodules/EcuabIfMem"]
+	path = repo_submodules/EcuabIfMem
+	url = git@github.com:RaajnaagHuliyapuradaMata/EcuabIfMem.git
+[submodule "repo_submodules/EcuabIfRf"]
+	path = repo_submodules/EcuabIfRf
+	url = git@github.com:RaajnaagHuliyapuradaMata/EcuabIfRf.git
+[submodule "repo_submodules/EcuabIfWdg"]
+	path = repo_submodules/EcuabIfWdg
+	url = git@github.com:RaajnaagHuliyapuradaMata/EcuabIfWdg.git
+[submodule "repo_submodules/EcuabTrcvCan"]
+	path = repo_submodules/EcuabTrcvCan
+	url = git@github.com:RaajnaagHuliyapuradaMata/EcuabTrcvCan.git
+[submodule "repo_submodules/LibAutosar"]
+	path = repo_submodules/LibAutosar
+	url = git@github.com:RaajnaagHuliyapuradaMata/LibAutosar.git
+[submodule "repo_submodules/McalAdc"]
+	path = repo_submodules/McalAdc
+	url = git@github.com:RaajnaagHuliyapuradaMata/McalAdc.git
+[submodule "repo_submodules/McalCan"]
+	path = repo_submodules/McalCan
+	url = git@github.com:RaajnaagHuliyapuradaMata/McalCan.git
+[submodule "repo_submodules/McalCry"]
+	path = repo_submodules/McalCry
+	url = git@github.com:RaajnaagHuliyapuradaMata/McalCry.git
+[submodule "repo_submodules/McalDio"]
+	path = repo_submodules/McalDio
+	url = git@github.com:RaajnaagHuliyapuradaMata/McalDio.git
+[submodule "repo_submodules/McalEep"]
+	path = repo_submodules/McalEep
+	url = git@github.com:RaajnaagHuliyapuradaMata/McalEep.git
+[submodule "repo_submodules/McalEth"]
+	path = repo_submodules/McalEth
+	url = git@github.com:RaajnaagHuliyapuradaMata/McalEth.git
+[submodule "repo_submodules/McalFls"]
+	path = repo_submodules/McalFls
+	url = git@github.com:RaajnaagHuliyapuradaMata/McalFls.git
+[submodule "repo_submodules/McalFr"]
+	path = repo_submodules/McalFr
+	url = git@github.com:RaajnaagHuliyapuradaMata/McalFr.git
+[submodule "repo_submodules/McalGpt"]
+	path = repo_submodules/McalGpt
+	url = git@github.com:RaajnaagHuliyapuradaMata/McalGpt.git
+[submodule "repo_submodules/McalIcu"]
+	path = repo_submodules/McalIcu
+	url = git@github.com:RaajnaagHuliyapuradaMata/McalIcu.git
+[submodule "repo_submodules/McalLin"]
+	path = repo_submodules/McalLin
+	url = git@github.com:RaajnaagHuliyapuradaMata/McalLin.git
+[submodule "repo_submodules/McalMcu"]
+	path = repo_submodules/McalMcu
+	url = git@github.com:RaajnaagHuliyapuradaMata/McalMcu.git
+[submodule "repo_submodules/McalOcu"]
+	path = repo_submodules/McalOcu
+	url = git@github.com:RaajnaagHuliyapuradaMata/McalOcu.git
+[submodule "repo_submodules/McalPort"]
+	path = repo_submodules/McalPort
+	url = git@github.com:RaajnaagHuliyapuradaMata/McalPort.git
+[submodule "repo_submodules/McalPwm"]
+	path = repo_submodules/McalPwm
+	url = git@github.com:RaajnaagHuliyapuradaMata/McalPwm.git
+[submodule "repo_submodules/McalSpi"]
+	path = repo_submodules/McalSpi
+	url = git@github.com:RaajnaagHuliyapuradaMata/McalSpi.git
+[submodule "repo_submodules/McalWdg"]
+	path = repo_submodules/McalWdg
+	url = git@github.com:RaajnaagHuliyapuradaMata/McalWdg.git
+[submodule "repo_submodules/ProjectARA"]
+	path = repo_submodules/ProjectARA
+	url = git@github.com:RaajnaagHuliyapuradaMata/ProjectARA.git
+[submodule "repo_submodules/ProjectConst"]
+	path = repo_submodules/ProjectConst
+	url = git@github.com:RaajnaagHuliyapuradaMata/ProjectConst.git
+[submodule "repo_submodules/ProjectMemMap"]
+	path = repo_submodules/ProjectMemMap
+	url = git@github.com:RaajnaagHuliyapuradaMata/ProjectMemMap.git
+[submodule "repo_submodules/ReSimCmd"]
+	path = repo_submodules/ReSimCmd
+	url = git@github.com:RaajnaagHuliyapuradaMata/ReSimCmd.git
+[submodule "repo_submodules/ReSimFm"]
+	path = repo_submodules/ReSimFm
+	url = git@github.com:RaajnaagHuliyapuradaMata/ReSimFm.git
+[submodule "repo_submodules/ReSimVehicle"]
+	path = repo_submodules/ReSimVehicle
+	url = git@github.com:RaajnaagHuliyapuradaMata/ReSimVehicle.git
+[submodule "repo_submodules/SwcApplDcm"]
+	path = repo_submodules/SwcApplDcm
+	url = git@github.com:RaajnaagHuliyapuradaMata/SwcApplDcm.git
+[submodule "repo_submodules/SwcApplDem"]
+	path = repo_submodules/SwcApplDem
+	url = git@github.com:RaajnaagHuliyapuradaMata/SwcApplDem.git
+[submodule "repo_submodules/SwcApplEcuM"]
+	path = repo_submodules/SwcApplEcuM
+	url = git@github.com:RaajnaagHuliyapuradaMata/SwcApplEcuM.git
+[submodule "repo_submodules/SwcApplFoc"]
+	path = repo_submodules/SwcApplFoc
+	url = git@github.com:RaajnaagHuliyapuradaMata/SwcApplFoc.git
+[submodule "repo_submodules/SwcApplStartUp"]
+	path = repo_submodules/SwcApplStartUp
+	url = git@github.com:RaajnaagHuliyapuradaMata/SwcApplStartUp.git
+[submodule "repo_submodules/SwcApplTpms"]
+	path = repo_submodules/SwcApplTpms
+	url = git@github.com:RaajnaagHuliyapuradaMata/SwcApplTpms.git
+[submodule "repo_submodules/SwcServiceBswM"]
+	path = repo_submodules/SwcServiceBswM
+	url = git@github.com:RaajnaagHuliyapuradaMata/SwcServiceBswM.git
+[submodule "repo_submodules/SwcServiceCom"]
+	path = repo_submodules/SwcServiceCom
+	url = git@github.com:RaajnaagHuliyapuradaMata/SwcServiceCom.git
+[submodule "repo_submodules/SwcServiceComM"]
+	path = repo_submodules/SwcServiceComM
+	url = git@github.com:RaajnaagHuliyapuradaMata/SwcServiceComM.git
+[submodule "repo_submodules/SwcServiceCsm"]
+	path = repo_submodules/SwcServiceCsm
+	url = git@github.com:RaajnaagHuliyapuradaMata/SwcServiceCsm.git
+[submodule "repo_submodules/SwcServiceDcm"]
+	path = repo_submodules/SwcServiceDcm
+	url = git@github.com:RaajnaagHuliyapuradaMata/SwcServiceDcm.git
+[submodule "repo_submodules/SwcServiceDem"]
+	path = repo_submodules/SwcServiceDem
+	url = git@github.com:RaajnaagHuliyapuradaMata/SwcServiceDem.git
+[submodule "repo_submodules/SwcServiceDet"]
+	path = repo_submodules/SwcServiceDet
+	url = git@github.com:RaajnaagHuliyapuradaMata/SwcServiceDet.git
+[submodule "repo_submodules/SwcServiceDlt"]
+	path = repo_submodules/SwcServiceDlt
+	url = git@github.com:RaajnaagHuliyapuradaMata/SwcServiceDlt.git
+[submodule "repo_submodules/SwcServiceEcuM"]
+	path = repo_submodules/SwcServiceEcuM
+	url = git@github.com:RaajnaagHuliyapuradaMata/SwcServiceEcuM.git
+[submodule "repo_submodules/SwcServiceFiM"]
+	path = repo_submodules/SwcServiceFiM
+	url = git@github.com:RaajnaagHuliyapuradaMata/SwcServiceFiM.git
+[submodule "repo_submodules/SwcServiceIoHwAb"]
+	path = repo_submodules/SwcServiceIoHwAb
+	url = git@github.com:RaajnaagHuliyapuradaMata/SwcServiceIoHwAb.git
+[submodule "repo_submodules/SwcServiceIpduM"]
+	path = repo_submodules/SwcServiceIpduM
+	url = git@github.com:RaajnaagHuliyapuradaMata/SwcServiceIpduM.git
+[submodule "repo_submodules/SwcServiceNm"]
+	path = repo_submodules/SwcServiceNm
+	url = git@github.com:RaajnaagHuliyapuradaMata/SwcServiceNm.git
+[submodule "repo_submodules/SwcServiceNmCan"]
+	path = repo_submodules/SwcServiceNmCan
+	url = git@github.com:RaajnaagHuliyapuradaMata/SwcServiceNmCan.git
+[submodule "repo_submodules/SwcServiceNmFr"]
+	path = repo_submodules/SwcServiceNmFr
+	url = git@github.com:RaajnaagHuliyapuradaMata/SwcServiceNmFr.git
+[submodule "repo_submodules/SwcServiceNvM"]
+	path = repo_submodules/SwcServiceNvM
+	url = git@github.com:RaajnaagHuliyapuradaMata/SwcServiceNvM.git
+[submodule "repo_submodules/SwcServiceOs"]
+	path = repo_submodules/SwcServiceOs
+	url = git@github.com:RaajnaagHuliyapuradaMata/SwcServiceOs.git
+[submodule "repo_submodules/SwcServicePduR"]
+	path = repo_submodules/SwcServicePduR
+	url = git@github.com:RaajnaagHuliyapuradaMata/SwcServicePduR.git
+[submodule "repo_submodules/SwcServiceSchM"]
+	path = repo_submodules/SwcServiceSchM
+	url = git@github.com:RaajnaagHuliyapuradaMata/SwcServiceSchM.git
+[submodule "repo_submodules/SwcServiceSecOC"]
+	path = repo_submodules/SwcServiceSecOC
+	url = git@github.com:RaajnaagHuliyapuradaMata/SwcServiceSecOC.git
+[submodule "repo_submodules/SwcServiceSmCan"]
+	path = repo_submodules/SwcServiceSmCan
+	url = git@github.com:RaajnaagHuliyapuradaMata/SwcServiceSmCan.git
+[submodule "repo_submodules/SwcServiceSokFm"]
+	path = repo_submodules/SwcServiceSokFm
+	url = git@github.com:RaajnaagHuliyapuradaMata/SwcServiceSokFm.git
+[submodule "repo_submodules/SwcServiceStbM"]
+	path = repo_submodules/SwcServiceStbM
+	url = git@github.com:RaajnaagHuliyapuradaMata/SwcServiceStbM.git
+[submodule "repo_submodules/SwcServiceTpCan"]
+	path = repo_submodules/SwcServiceTpCan
+	url = git@github.com:RaajnaagHuliyapuradaMata/SwcServiceTpCan.git
+[submodule "repo_submodules/SwcServiceTpFr"]
+	path = repo_submodules/SwcServiceTpFr
+	url = git@github.com:RaajnaagHuliyapuradaMata/SwcServiceTpFr.git
+[submodule "repo_submodules/SwcServiceTpJ1939"]
+	path = repo_submodules/SwcServiceTpJ1939
+	url = git@github.com:RaajnaagHuliyapuradaMata/SwcServiceTpJ1939.git
+[submodule "repo_submodules/SwcServiceTpLin"]
+	path = repo_submodules/SwcServiceTpLin
+	url = git@github.com:RaajnaagHuliyapuradaMata/SwcServiceTpLin.git
+[submodule "repo_submodules/SwcServiceVkms"]
+	path = repo_submodules/SwcServiceVkms
+	url = git@github.com:RaajnaagHuliyapuradaMata/SwcServiceVkms.git
+[submodule "repo_submodules/SwcServiceWdgM"]
+	path = repo_submodules/SwcServiceWdgM
+	url = git@github.com:RaajnaagHuliyapuradaMata/SwcServiceWdgM.git
+[submodule "repo_projects/rEcu_iSolarV06.00.00_GhsMultiV2015p01p07_RH850F1LR7F7010133AFP_vBcRsBpTpms"]
+	path = repo_projects/rEcu_iSolarV06.00.00_GhsMultiV2015p01p07_RH850F1LR7F7010133AFP_vBcRsBpTpms
+	url = git@github.com:RaajnaagHuliyapuradaMata/rEcu_iSolarV06.00.00_GhsMultiV2015p01p07_RH850F1LR7F7010133AFP_vBcRsBpTpms.git
