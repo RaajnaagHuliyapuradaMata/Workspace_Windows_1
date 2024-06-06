@@ -214,3 +214,6 @@
 [submodule "repo_projects/rEcu_iSolarV06.00.00_GhsMultiV2015p01p07_RH850F1LR7F7010133AFP_vBcRsBpTpms"]
 	path = repo_projects/rEcu_iSolarV06.00.00_GhsMultiV2015p01p07_RH850F1LR7F7010133AFP_vBcRsBpTpms
 	url = git@github.com:RaajnaagHuliyapuradaMata/rEcu_iSolarV06.00.00_GhsMultiV2015p01p07_RH850F1LR7F7010133AFP_vBcRsBpTpms.git
+[submodule "repo_submodules/ProjectCfg"]
+	path = repo_submodules/ProjectCfg
+	url = git@github.com:RaajnaagHuliyapuradaMata/ProjectCfg_1.git
