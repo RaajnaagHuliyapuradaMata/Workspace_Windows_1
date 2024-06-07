@@ -91,6 +91,9 @@
 [submodule "repo_submodules/ProjectARA"]
 	path = repo_submodules/ProjectARA
 	url = git@github.com:RaajnaagHuliyapuradaMata/ProjectARA.git
+[submodule "repo_submodules/ProjectCfg"]
+	path = repo_submodules/ProjectCfg
+	url = git@github.com:RaajnaagHuliyapuradaMata/ProjectCfg_1.git
 [submodule "repo_submodules/ProjectConst"]
 	path = repo_submodules/ProjectConst
 	url = git@github.com:RaajnaagHuliyapuradaMata/ProjectConst.git
